@@ -1,4 +1,4 @@
-API_KEY = "AIzaSyCK8pHpO7M5mTezRxMlos4AftAbvTkzuFY"
+API_KEY = "your-api-key"
 
 var allElem = document.getElementsByTagName("*");
 for (var i = 0; i < allElem.length; i++) {
