@@ -1,11 +1,5 @@
 API_KEY = "your-api-key"
 
-var allElem = document.getElementsByTagName("*");
-for (var i = 0; i < allElem.length; i++) {
-    // Do something with all element here
-}
-
-
 $("#translateButton").click(function () {
 
   var url = "https://translation.googleapis.com/language/translate/v2";
